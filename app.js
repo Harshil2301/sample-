@@ -3,7 +3,7 @@
 let size = "S";
 
 if(size == "XL"){
-    console.log("Price is 250");
+    console.log("Price is 250000000");
 }
 else if(size == "L"){
     console.log("Price is 150");
